@@ -1,5 +1,6 @@
 # Development and Structure-Activity Relationship (SAR) of Novel Benzimidazole KRAS Inhibitors
 Rachit Mukkamala, Eeshi Uppalapati, Smita Ektare, Harshita Krupadanam, Aarya Morgaonkar, Aaryana Afroz
+
 **DOI for all versions:** [10.5281/zenodo.4480487](https://doi.org/10.5281/zenodo.4480487)
 
 **DOI for current version (v1.0.1):** ![DOI v.1.0.1](https://zenodo.org/badge/doi/10.5281/zenodo.4480488.svg)
