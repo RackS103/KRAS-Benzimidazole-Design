@@ -1,0 +1,5 @@
+PATH: orca
+ORCAHEADER: ! B3LYP OPT def2-SVP NormalPrint Grid4  NormalSCF PAL4
+MGL: prepare_ligand.py
+VINA: vina_params.txt
+RECEPTOR: *.pdbqt
