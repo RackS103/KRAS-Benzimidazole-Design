@@ -1,7 +1,7 @@
-# Batch High Throughput Virtual Screening Script, by Rac Mukkamala
+# Batch High Throughput Virtual Screening Script
 
 ## Description
-A Bash script to submit batch jobs to ORCA, OpenBabel, MGLTools, and Autodock Vina. Automatically checks for syntax errors in ORCA input files, and can also identify ORCA runtime crashes. Provides a list of failed ORCA jobs at the end for easy troubleshooting. Organizes log files into individual directories, and creates an easy to read results summary text file. Created by Rac Mukkamala
+A Bash script to submit batch jobs to ORCA, OpenBabel, MGLTools, and Autodock Vina. Automatically checks for syntax errors in ORCA input files, and can also identify ORCA runtime crashes. Provides a list of failed ORCA jobs at the end for easy troubleshooting. Organizes log files into individual directories, and creates an easy to read results summary text file. **Created by Rac Mukkamala** to facilitate the rapid processing of benzimidazole analogs for the paper: Development and Structure-Activity Relationship (SAR) of Novel Benzimidazole KRAS Inhibitors (2021).
 
 ## Prerequisite Installations
 In order for the script to work, the following softwares must be installed:
