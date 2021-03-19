@@ -7,9 +7,12 @@ Rachit Mukkamala, Eeshi Uppalapati, Smita Ektare, Harshita Krupadanam, Aarya Mor
 
 ## Contents
 This repository contains all supplementary materials used and compiled for the research paper listed above. Contents include:
-- **Batch HTVS Script:** Script which was used to batch process benzimidazole ligands through ORCA and Autodock Vina.
 - **Complete Benzimidazole Library:** A compilation of all 297 benzimidazole compounds screened for this research paper, as well as the list of 194 Lipinski Rule of 5 cleared copounds
 - **Descriptor Analysis Scripts:** Python and R scripts used to compile and analyze trends in chemical descriptors across the benzimidazole library.
+
+## Batch HTVS Script
+
+To access the Batch HTVS script used for this paper, please visit the following repository: https://github.com/RackS103/Batch-HTVS
 
 ## Citation
 Please acknowledge the use of any supplementary materials from this paper as follows:
